@@ -1,8 +1,8 @@
 ## Welcome to CyberSecurity Pages
 
-You can use the [editor on GitHub](https://github.com/20nmeza/Nilyn-Meza/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CyberSecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At South Plainfield High School has implanted a Cyber-Security Class as of 2019
 
 ### Main Page 
 

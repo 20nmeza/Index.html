@@ -1,4 +1,4 @@
-## Welcome to CyberSecurity Pages
+## Welcome to CyberSecurity 
 
 CyberSecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks.
 

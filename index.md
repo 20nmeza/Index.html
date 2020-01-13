@@ -28,7 +28,7 @@ You can add images to your website by using the img
 For more details see [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org).
 
 ### Visit Our Other Pages 
-To Learn More About [Academic Resume](https://github.com/20nmeza/Nilyn-Meza/settings) 
+To Learn More About [Academic Resume](https://20nmeza.github.io/Academic-Resume/) 
 or [Cyber Security.](https://20nmeza.github.io/Welcome-to-Cyber-Security-/)
 Got Any Question [Contact Us.](https://github.com/20nmeza/Nilyn-Meza/settings)
 

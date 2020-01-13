@@ -6,7 +6,7 @@ At South Plainfield High School has implanted a Cyber-Security Class as of 2019
 
 ### Main Page 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inside the class of Cybersecurity, students learn about HTML 
 
 ```markdown
 Syntax highlighted code block

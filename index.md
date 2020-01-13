@@ -27,10 +27,11 @@ You can add images to your website by using the img
 
 For more details see [Introduction to Basic HTML and HTML5](https://www.freecodecamp.org).
 
-### Jekyll Themes
+### Visit Our Other Pages 
+To Learn More Visit [Academic Resume](https://github.com/20nmeza/Nilyn-Meza/settings)
+To Learn More Visit [Cyber Security Tips Page](https://github.com/20nmeza/Nilyn-Meza/settings)
+To Learn More Visit [Contact Page](https://github.com/20nmeza/Nilyn-Meza/settings)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/20nmeza/Nilyn-Meza/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### About Us 
+These pages were made by Sanjiv, Upashna, Stephanie, Nilyn

@@ -29,8 +29,8 @@ For more details see [Introduction to Basic HTML and HTML5](https://www.freecode
 
 ### Visit Our Other Pages 
 To Learn More About [Academic Resume](https://github.com/20nmeza/Nilyn-Meza/settings) 
-or [Cyber Security Tips Page.](https://github.com/20nmeza/Nilyn-Meza/settings)
-Got Any Question [Contact Page.](https://github.com/20nmeza/Nilyn-Meza/settings)
+or [Cyber Security.](https://github.com/20nmeza/Nilyn-Meza/settings)
+Got Any Question [Contact Us.](https://github.com/20nmeza/Nilyn-Meza/settings)
 
 
 ### About Us 
